@@ -34,8 +34,8 @@ Servo servo2;
 
 // ---------------- VARIABLES ----------------
 String inputPassword = "";
-const String GENERAL_PIN = "1234";
-const String MASTER_PIN  = "5678";
+const String GENERAL_PIN = " ";
+const String MASTER_PIN  = " ";
 
 int fails = 0;
 bool masterMode = false;
