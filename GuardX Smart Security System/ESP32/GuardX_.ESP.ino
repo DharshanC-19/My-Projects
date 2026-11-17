@@ -3,13 +3,13 @@
 String data;
 
 
-const char* ssid = "AndroidAP_5787";
-const char* password = "praveen41";
+const char* ssid = " ";
+const char* password = " ";
 
 WiFiClient client;
 
-unsigned long channelID = 3410422;
-const char* writeAPIKey = "JRMCF6KF8CVRP1BA";
+unsigned long channelID = ;
+const char* writeAPIKey = " ";
 
 
 void setup() {
